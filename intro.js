@@ -335,6 +335,7 @@
     }
     //set the step to zero
     this._currentStep = undefined;
+    overlayLayer.remove();
   }
 
   /**
